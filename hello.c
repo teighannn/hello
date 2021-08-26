@@ -14,5 +14,8 @@ int main(int argc, char **argv) {
   printf("Teighan <3 \n");
   printf("Computer Science\n");
 
+  printf("Koen as well\n");
+  printf("Computer Engineering (better than computer science)\n");
+
   return 0;
 }
