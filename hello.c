@@ -12,6 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Teighan <3 \n");
+  printf("Computer Science\n");
 
   return 0;
 }
